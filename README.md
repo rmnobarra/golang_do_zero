@@ -82,8 +82,46 @@ variavel2 := "variavel 2"
 
 ### tipos de dados
 
-numeros inteiros
+#### numeros inteiros
 
 ```go
 int8, int16, int32 e int64
 ```
+
+* o int sem especificar o tipo, utiliza a arquitetura do computador como base. Ex: Se o pc for 64 bits, int64
+
+* uint (unsigned int) um int que desconsidera o sinal.
+
+* alias int32 = rune
+
+* alias uint8 = byte
+
+#### numeros reais
+
+float32, float64
+
+#### string
+
+var str string "texto"
+
+* go não tem char (1 caractere)
+
+#### valor zero 
+
+* valor atribuido a uma variavel quando não é inicializada
+
+* Em go todo tipo de dado tem o valor zero, o valor inicial
+
+#### booleano
+true / false
+
+#### erro
+
+### funções
+
+uma função é basicamente uma série de instruções que o programa irá seguir.
+Ela pode ter parâmetros e retornos
+
+### operadores
+
+* aritméticos
