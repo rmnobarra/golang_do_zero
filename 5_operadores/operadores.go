@@ -56,4 +56,11 @@ func main() {
 	//fim operadores unarios
 
 	//operador ternario
+	var texto string
+	if numero > 5 {
+		texto = "maior que 5"
+	} else {
+		texto = "menor que 5"
+	}
+	fmt.Println(texto)
 }

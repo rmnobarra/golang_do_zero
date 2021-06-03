@@ -125,3 +125,30 @@ Ela pode ter parâmetros e retornos
 ### operadores
 
 * aritméticos
+* atribuição
+* relacionais
+* lógicos
+* unários
+* ternários
+
+### struct
+
+mais próximo de uma classe
+
+uma coleção de campos, cada campo tem um nome e um tipo
+
+### ponteiros
+
+* como se fosse uma variavel mas ao invés de guardar um valor, um endereço de memória de algo
+
+* uma referência de memória
+
+* desferenciação
+
+
+### arrays e slices
+
+array é uma lista de valores
+
+se não especificar o tamanho do array, ele se torna um slice
+
