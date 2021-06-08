@@ -165,3 +165,6 @@ https://github.com/urfave/cli
 *  concorrencia não necessariamente são executadas ao mesmo tempo
 
 
+## testes automatizados
+
+uma função que testará outra função verificando se a execução ocorre como esperado
