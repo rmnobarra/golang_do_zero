@@ -152,3 +152,16 @@ array é uma lista de valores
 
 se não especificar o tamanho do array, ele se torna um slice
 
+
+### urfave cli
+
+https://github.com/urfave/cli
+
+
+### goroutines
+
+* paralelismo ocorre quando duas ou mais tarefas são executadas exatamente ao mesmo tempo
+
+*  concorrencia não necessariamente são executadas ao mesmo tempo
+
+
