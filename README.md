@@ -175,3 +175,21 @@ go test ./...
 go test -v
 
 go test --cover
+
+
+### banco de dados
+
+go get github.com/go-sql-driver/mysql
+
+tabela:
+
+create table usuarios(
+    -> id int auto_increment primary key,
+    -> nome varchar(50) not null,
+    -> email varchar(50) not null
+    -> ) ENGINE=INNODB;
+
+
+### mux
+
+go get github.com/gorilla/mux 
