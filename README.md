@@ -168,3 +168,10 @@ https://github.com/urfave/cli
 ## testes automatizados
 
 uma função que testará outra função verificando se a execução ocorre como esperado
+
+
+go test ./...
+
+go test -v
+
+go test --cover
