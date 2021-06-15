@@ -193,3 +193,7 @@ create table usuarios(
 ### mux
 
 go get github.com/gorilla/mux 
+
+
+### prepare statement
+
